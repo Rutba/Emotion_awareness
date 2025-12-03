@@ -1,10 +1,11 @@
 # Emotion_awareness
-Its a system that uses a webcam to capture a person's facial expression, analyze their emotions, and respond with appropriate visual or textual feedback — like a smart mirror that can "perceive" how you're feeling.
+Its a system that uses a webcam to capture a person's facial expression, analyze their emotions, and respond with appropriate visual or textual feedback : a smart mirror that can "perceive" how you're feeling.
 This project simulates the human perceptual process:
 
 * Visual sensing (camera as the eye)
 * Interpretation (emotion recognition via machine learning)
 * Emotional response (feedback on screen)
+* Suggest activities (play music)
 
 How it can help:
 
