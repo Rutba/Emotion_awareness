@@ -8,7 +8,7 @@ import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 
-st.title("🧠 Emotion Wellness Dashboard")
+st.title("Emotion Wellness Dashboard")
 
 df = pd.read_csv("emotion_log.csv", names=["timestamp", "emotion"], parse_dates=["timestamp"])
 df["date"] = df["timestamp"].dt.date
